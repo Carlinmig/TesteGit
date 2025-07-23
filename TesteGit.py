@@ -11,3 +11,5 @@ print("This script is part of a Git test workflow.")
 d = 15
 c = c + d
 print("After adding", d, "the new sum is", c)
+
+print("Commit para treinar o comando git commit e git push")
