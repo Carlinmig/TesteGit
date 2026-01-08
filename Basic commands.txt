@@ -1,0 +1,10 @@
+Basic commands:
+
+if you want to initiate a new git repositor, do you have two possibility:
+
+1. Initiate a VCS on your new project:
+	- Select de project's folder and digit a command on terminal: git init
+
+2. Copy a project is already existing on repository:
+	- Git clone
+
